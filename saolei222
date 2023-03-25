@@ -1,3 +1,4 @@
+请将扫雷代码修改至此，谢谢
 import java.util.Random;
 import java.awt.*;
 import java.awt.event.*;
